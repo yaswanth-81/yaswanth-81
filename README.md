@@ -4,7 +4,7 @@
 
   <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=YASWANTH N&fontSize=58&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Builder%20%7C%20Developer%20%7C%20Learner&descAlignY=60&descSize=13" width="88%" alt="Yaswanth banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=YASWANTH&fontSize=58&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Builder%20%7C%20Developer%20%7C%20Learner&descAlignY=60&descSize=13" width="88%" alt="Yaswanth banner"/>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=680&lines=Hi+there!+I'm+Yaswanth+👋;Full+Stack+Developer+%7C+MERN+Stack;TypeScript+%7C+React+%7C+Node.js;Problem+Solver+%7C+Open+Source+Contributor;Building+products+that+make+a+difference+🚀)](https://git.io/typing-svg)
 
