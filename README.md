@@ -10,13 +10,9 @@
 
 <br/>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Open%20to%20Work-Internships%20%26%20SDE-22c55e?style=for-the-badge&logo=github&logoColor=white" />
-
-<img src="https://img.shields.io/badge/MERN-Full%20Stack-2563eb?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-<img src="https://img.shields.io/badge/C++-Problem%20Solver-f97316?style=for-the-badge&logo=cplusplus&logoColor=white" />
+[![Profile Views](https://komarev.com/ghpvc/?username=yaswanth-81&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/yaswanth-81)
+[![GitHub followers](https://img.shields.io/github/followers/yaswanth-81?label=Followers&style=for-the-badge&color=blue&logo=github)](https://github.com/yaswanth-81?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/yaswanth-81?label=Stars&style=for-the-badge&color=yellow&logo=github)](https://github.com/yaswanth-81)
 
 </div>
 
@@ -30,32 +26,22 @@
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-```typescript
-const yaswanth = {
-  role      : "Final Year B.Tech Student & Software Developer",
-  focus     : ["Full Stack Development", "MERN Stack", "Backend Systems"],
-  languages : ["TypeScript", "JavaScript", "Python", "C++", "PHP"],
-  stack     : {
-    frontend : ["React", "Vite", "Tailwind CSS", "shadcn/ui"],
-    backend  : ["Node.js", "Express.js", "Supabase Edge Functions"],
-    database : ["PostgreSQL", "MongoDB", "Supabase"],
-    ml       : ["Python", "TensorFlow", "LightGBM", "EfficientNetB0"],
-  },
-  currentlyBuilding : "Campus-centric internship & placement platforms",
-  passion           : "Building products that solve real student problems",
-  funFact           : "I automate everything I do more than twice 🤖",
-};
-```
+I’m a final-year B.Tech student and builder who enjoys turning ideas into practical software products. My work sits at the intersection of full-stack development, real-world problem solving, and modern web experiences.
+
+| Area | Details |
+|---|---|
+| 🎓 Background | Final-year B.Tech student passionate about building reliable software |
+| 🛠️ Core Strength | Full-stack development with React, TypeScript, Node.js, and modern backend systems |
+| 🤖 Interests | Machine learning, scalable APIs, and campus-focused digital products |
+| 🚀 Current Focus | Creating platforms for internships, placements, peer collaboration, and student engagement |
+| 🌱 Mindset | I enjoy shipping thoughtful products, learning continuously, and contributing to open source |
+
+- 💡 I love building products that solve real student and community problems.
+- ⚡ I’m comfortable working across frontend, backend, databases, and AI workflows.
+- 🧠 I enjoy clean architecture, strong UX, and dependable APIs.
+- 🤝 I’m open to collaborations on meaningful, impact-driven projects.
 
 <br clear="right"/>
-
-- 🎓 **Final Year B.Tech** student passionate about engineering great software
-- 🛠️ **MERN Stack Developer** with strong TypeScript & React expertise
-- 🤖 **ML Practitioner** — built hybrid deep-learning models (EfficientNetB0 + TF-IDF)
-- 🏛️ Gained hands-on experience through **internship work** in 2025
-- 💡 Love building **campus-focused platforms** that help real students
-- ⚡ Passionate about **backend architecture**, **real-time systems**, and **clean APIs**
-- 🌱 **Open Source Enthusiast** — always learning, always building
 
 ---
 
@@ -75,8 +61,101 @@ const yaswanth = {
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                         TECH STACK SECTION                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
+
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
+  <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/>
+  <img src="https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge&logo=recharts&logoColor=white" alt="Recharts"/>
+</p>
+
+### ⚙️ Backend
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT"/>
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Supabase_DB-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase DB"/>
+</p>
+
+### 🤖 ML / Data Science
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=python&logoColor=white" alt="LightGBM"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
+
+### 📦 Libraries & Frameworks
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack Query"/>
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form"/>
+  <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" alt="Zod"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
+  <img src="https://img.shields.io/badge/bcrypt-003087?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="bcrypt"/>
+  <img src="https://img.shields.io/badge/Multer-FF6C37?style=for-the-badge&logo=node.js&logoColor=white" alt="Multer"/>
+  <img src="https://img.shields.io/badge/node--cron-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node-cron"/>
+</p>
+
+### 🔧 Tools & DevOps
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun"/>
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+</p>
+
+### 🖥️ IDEs & Operating Systems
+
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+</p>
+
+---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                       FEATURED PROJECTS SECTION                            -->
@@ -84,94 +163,44 @@ const yaswanth = {
 
 ## 🚀 Featured Projects
 
-### 🥇 INTERNCONNECT — Campus Internship & Placement Platform
+Here are some of the most meaningful projects from my GitHub profile, presented in a cleaner, information-first layout.
 
-<a href="https://github.com/yaswanth-81/codecrew-connect">
-  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=yaswanth-81&repo=codecrew-connect&theme=tokyonight&hide_border=true" />
-</a>
+### 🌟 Highlighted Projects
 
-**The most comprehensive project on my profile.** A full-stack, multi-role campus placement ecosystem built with enterprise-grade patterns.
+| Project | Summary | Stack | Links |
+|---|---|---|---|
+| **codecrew-connect** | Multi-role campus internship and placement platform with dashboards for students, recruiters, faculty, and admins. | React, TypeScript, Vite, Supabase, PostgreSQL, Tailwind CSS | [Repo](https://github.com/yaswanth-81/codecrew-connect) · ⭐ 1 |
+| **STUDENTS_CAMPUS_CONNECT** | College-isolated peer-to-peer marketplace for freelance tasks, chat, and payments. | TypeScript, Node.js, Express, MongoDB, JWT | [Repo](https://github.com/yaswanth-81/STUDENTS_CAMPUS_CONNECT) · ⭐ 1 · 🍴 2 |
+| **ML-Smart-Pricing-Prediction-** | Hybrid ML project for smart product pricing using LightGBM with text and numeric features. | Python, TensorFlow, scikit-learn, LightGBM | [Repo](https://github.com/yaswanth-81/ML-Smart-Pricing-Prediction-) |
+| **Library-Seat-Management-System-** | PHP-based library seat reservation and management system. | PHP, HTML, CSS | [Repo](https://github.com/yaswanth-81/Library-Seat-Management-System-) |
+| **encoding-decoding-management-system** | Academic utility project focused on encoding and decoding operations. | PHP, HTML, CSS | [Repo](https://github.com/yaswanth-81/encoding-decoding-management-system) |
 
-**✨ Key Features:**
-- 5 role-based dashboards: Student, Recruiter, Faculty Mentor, Placement Cell, Admin
-- AI-powered job matching with skills-based recommendations
-- Real-time application tracking with Supabase Realtime
-- Interview scheduling, exam management, and verifiable skill badges
-- Serverless Supabase Edge Functions for code evaluation & notifications
-- Row-Level Security (RLS) on PostgreSQL for enterprise-grade data isolation
+### 📚 All Public Projects
 
-**🔧 Tech:** `React 18` `TypeScript` `Vite` `Tailwind CSS` `shadcn/ui` `Supabase` `PostgreSQL` `TanStack Query` `Framer Motion` `Zod`
-
-[![codecrew-connect](https://img.shields.io/badge/🔗_View_Repo-codecrew--connect-blue?style=for-the-badge)](https://github.com/yaswanth-81/codecrew-connect)
-
-<br clear="right"/>
-
----
-
-### 🥈 StudentsConnect — Campus Peer-to-Peer Skill Marketplace
-
-<a href="https://github.com/yaswanth-81/STUDENTS_CAMPUS_CONNECT">
-  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=yaswanth-81&repo=STUDENTS_CAMPUS_CONNECT&theme=tokyonight&hide_border=true" />
-</a>
-
-**A full-stack MERN platform** where students can post tasks, find freelance work, and collaborate — all isolated by college community.
-
-**✨ Key Features:**
-- Full order lifecycle: post → apply → assign → chat → pay
-- Real-time messaging system (per-order chat)
-- College-based data isolation (students only see peers from their college)
-- JWT authentication with bcrypt hashing
-- Scheduled cleanup jobs via node-cron
-- In-app QR code payment flow & notification system
-
-**🔧 Tech:** `React 18` `TypeScript` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Tailwind CSS` `shadcn/ui` `Framer Motion`
-
-[![STUDENTS_CAMPUS_CONNECT](https://img.shields.io/badge/🔗_View_Repo-STUDENTS_CAMPUS_CONNECT-green?style=for-the-badge)](https://github.com/yaswanth-81/STUDENTS_CAMPUS_CONNECT)
-
-<br clear="right"/>
-
----
-
-### 🥉 ML Smart Pricing Prediction — Hybrid Deep Learning Model
-
-<a href="https://github.com/yaswanth-81/ML-Smart-Pricing-Prediction-">
-  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=yaswanth-81&repo=ML-Smart-Pricing-Prediction-&theme=tokyonight&hide_border=true" />
-</a>
-
-**A multi-modal ML solution** for product price prediction using a hybrid neural network combining image features and text features.
-
-**✨ Key Features:**
-- EfficientNetB0 for image feature extraction (pretrained on ImageNet)
-- TF-IDF vectorization for text feature extraction
-- Parallel neural branches fused into a single regression output
-- End-to-end training and inference pipeline
-- Parallel image preprocessing support
-
-**🔧 Tech:** `Python` `TensorFlow 2.x` `EfficientNetB0` `TF-IDF` `scikit-learn` `Pandas` `NumPy`
-
-[![ML-Smart-Pricing](https://img.shields.io/badge/🔗_View_Repo-ML--Smart--Pricing-orange?style=for-the-badge)](https://github.com/yaswanth-81/ML-Smart-Pricing-Prediction-)
-
-<br clear="right"/>
-
----
-
-### 🏛️ Library Seat Management System
-
-A PHP-based library management system for seat reservation and tracking.
-
-**🔧 Tech:** `PHP` `HTML` `CSS`
-
-[![Library-Seat-Management](https://img.shields.io/badge/🔗_View_Repo-Library--Seat--Management-purple?style=for-the-badge)](https://github.com/yaswanth-81/Library-Seat-Management-System-)
-
----
-
-### 🔐 Encoding-Decoding Management System
-
-A PHP-based utility system for encoding and decoding operations.
-
-**🔧 Tech:** `PHP` `HTML` `CSS`
-
-[![encoding-decoding](https://img.shields.io/badge/🔗_View_Repo-Encoding--Decoding--System-red?style=for-the-badge)](https://github.com/yaswanth-81/encoding-decoding-management-system)
+| Repository | Description | Primary Language | Links |
+|---|---|---|---|
+| academic-authenticator | Authentication-focused project for academic use cases. | PHP | [Repo](https://github.com/yaswanth-81/academic-authenticator) |
+| AI-POWERED-SHOPKEEPER-VENDOR-MANAGEMENT-SYSTEM | Vendor and shopkeeper management system with AI-oriented workflows. | PHP | [Repo](https://github.com/yaswanth-81/AI-POWERED-SHOPKEEPER-VENDOR-MANAGEMENT-SYSTEM) |
+| ai_time_line | Timeline-style project built with JavaScript. | JavaScript | [Repo](https://github.com/yaswanth-81/ai_time_line) |
+| codecrew-connect | Multi-role campus internship and placement platform. | TypeScript | [Repo](https://github.com/yaswanth-81/codecrew-connect) · ⭐ 1 |
+| COMPARE-L-PDF | PDF comparison utility project. | Python | [Repo](https://github.com/yaswanth-81/COMPARE-L-PDF) |
+| COMPARE-PDF | PDF comparison utility project. | Python | [Repo](https://github.com/yaswanth-81/COMPARE-PDF) |
+| encoding-decoding-management-system | Encoding and decoding utility project. | PHP | [Repo](https://github.com/yaswanth-81/encoding-decoding-management-system) |
+| EVENT_MANAGEMENT | Event management application. | TypeScript | [Repo](https://github.com/yaswanth-81/EVENT_MANAGEMENT) |
+| internship_2025 | Internship-related project page. | HTML | [Repo](https://github.com/yaswanth-81/internship_2025) |
+| latest-pdf-comp | PDF comparison tool. | Python | [Repo](https://github.com/yaswanth-81/latest-pdf-comp) |
+| Library-Seat-Management-System- | Library seat reservation and tracking system. | PHP | [Repo](https://github.com/yaswanth-81/Library-Seat-Management-System-) |
+| ML---Smart-Pricing-Prediction- | Machine learning pricing prediction experiment. | Python | [Repo](https://github.com/yaswanth-81/ML---Smart-Pricing-Prediction-) |
+| ML--Smart-Pricing-Prediction | Machine learning pricing prediction experiment. | Python | [Repo](https://github.com/yaswanth-81/ML--Smart-Pricing-Prediction) |
+| ML-LAB | Machine learning lab experiments. | Python | [Repo](https://github.com/yaswanth-81/ML-LAB) |
+| ML-Smart-Pricing-Prediction- | Smart pricing prediction using LightGBM and structured product features. | Python | [Repo](https://github.com/yaswanth-81/ML-Smart-Pricing-Prediction-) |
+| pdf-comparision-tool | PDF comparison utility tool. | HTML | [Repo](https://github.com/yaswanth-81/pdf-comparision-tool) |
+| PSP | Problem-solving and programming practice repository. | C | [Repo](https://github.com/yaswanth-81/PSP) |
+| saral-labs-round2 | Round 2 submission for a coding challenge. | Jupyter Notebook | [Repo](https://github.com/yaswanth-81/saral-labs-round2) |
+| STUDENTS_CAMPUS_CONNECT | Peer-to-peer skill marketplace for campus collaboration. | TypeScript | [Repo](https://github.com/yaswanth-81/STUDENTS_CAMPUS_CONNECT) · ⭐ 1 · 🍴 2 |
+| TASK-DRDO | Project work associated with the DRDO internship. | Python | [Repo](https://github.com/yaswanth-81/TASK-DRDO) |
+| yaswanth-81 | Profile repository for GitHub profile content. | HTML | [Repo](https://github.com/yaswanth-81/yaswanth-81) |
+| yaswanth-portfolio | Personal portfolio website. | HTML | [Repo](https://github.com/yaswanth-81/yaswanth-portfolio) |
 
 ---
 
