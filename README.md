@@ -4,9 +4,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Yaswanth&fontSize=64&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Builder%20%7C%20Developer%20%7C%20Learner&descAlignY=60&descSize=14" width="90%" alt="Yaswanth banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Yaswanth&fontSize=58&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Builder%20%7C%20Developer%20%7C%20Learner&descAlignY=60&descSize=13" width="88%" alt="Yaswanth banner"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Hi+there!+I'm+Yaswanth+👋;Full+Stack+Developer+%7C+MERN+Stack;TypeScript+%7C+React+%7C+Node.js;Problem+Solver+%7C+Open+Source+Contributor;Building+products+that+make+a+difference+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=680&lines=Hi+there!+I'm+Yaswanth+👋;Full+Stack+Developer+%7C+MERN+Stack;TypeScript+%7C+React+%7C+Node.js;Problem+Solver+%7C+Open+Source+Contributor;Building+products+that+make+a+difference+🚀)](https://git.io/typing-svg)
 
 <br/>
 
@@ -206,27 +206,16 @@ Here are some of the most meaningful projects from my GitHub profile, presented 
 
 ## 💼 Experience
 
-<!-- 📝 CUSTOMIZE: Update with your actual DRDO internship details -->
+<div align="left">
 
-<table>
-<tr>
-<td>
+### 🧠 Data Analysis Intern — APSSDC (May 2025 – July 2025)
 
-### 🏛️ DRDO Internship *(2025)*
-**Defence Research and Development Organisation**
+- Analyzed smartphone battery performance data to uncover real-world usage patterns.
+- Performed data cleaning, exploratory data analysis, and visualization.
+- Derived insights that supported data-driven design and consumer-oriented conclusions.
+- Strengthened my understanding of Python, pandas, and analytical problem solving.
 
-- Worked on the **Automation of Formal Verification Workflow** for safety-critical software
-- Engaged with formal methods for verifying correctness of critical system components
-- Gained experience working on defence-grade software reliability tools
-- Applied software engineering principles in a safety-critical environment
-
-**Technologies:** `[Add technologies used]` `Formal Verification Tools` `Safety-Critical Systems`
-
-> 📝 *Update this section with your specific responsibilities, tools, and measurable impact from your DRDO internship.*
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -240,11 +229,6 @@ Here are some of the most meaningful projects from my GitHub profile, presented 
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yaswanth-81&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Yaswanth's GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanth-81&theme=tokyonight&hide_border=true" alt="Yaswanth's GitHub Streak" />
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth-81&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yaswanth-81&theme=tokyonight" alt="Repos Per Language" />
 
 <br/>
 
@@ -279,14 +263,8 @@ Here are some of the most meaningful projects from my GitHub profile, presented 
 
 <!-- 📝 CUSTOMIZE: Replace # with your actual profile URLs -->
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yaswanth-81)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yaswanth_81)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/yaswanth-81)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/yaswanth_81)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yaswanth-81)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yaswanth-81)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yaswanth-81)
-
-> 📝 *Update each badge URL with your actual coding profile links.*
 
 </div>
 
@@ -302,11 +280,10 @@ Here are some of the most meaningful projects from my GitHub profile, presented 
 
 | # | Certification | Issuer | Year | Badge |
 |---|---|---|---|---|
-| 1 | *Add your certification name* | *Issuer* | *Year* | [![Add Badge](https://img.shields.io/badge/View-Certificate-blue?style=flat-square)](https://your-certificate-link.com) |
-| 2 | *Add your certification name* | *Issuer* | *Year* | [![Add Badge](https://img.shields.io/badge/View-Certificate-blue?style=flat-square)](https://your-certificate-link.com) |
-| 3 | *Add your certification name* | *Issuer* | *Year* | [![Add Badge](https://img.shields.io/badge/View-Certificate-blue?style=flat-square)](https://your-certificate-link.com) |
-
-> 📝 *Replace placeholder rows with your real certifications (e.g., AWS, Google Cloud, Meta Frontend, Coursera ML, etc.)*
+| 1 | Python for Data Science | APSSDC / Skill Development | 2025 | [View](https://drive.google.com/drive/folders/1EaCZm89ILTNrXn-Jq9RUTvD75PS_fMMj) |
+| 2 | Data Analysis with Python | APSSDC / Skill Development | 2025 | [View](https://drive.google.com/drive/folders/1EaCZm89ILTNrXn-Jq9RUTvD75PS_fMMj) |
+| 3 | Microsoft Learn Student Ambassador / Developer Skills | Microsoft | 2025 | [View](https://learn.microsoft.com/) |
+| 4 | Full Stack Web Development | Skillrack / Self Learning | 2025 | [View](https://github.com/yaswanth-81) |
 
 ---
 
@@ -357,34 +334,6 @@ Here are some of the most meaningful projects from my GitHub profile, presented 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                       VISITOR COUNTER SECTION                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 👁️ Visitor Count
-
-<div align="center">
-
-[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yaswanth-81.yaswanth-81&left_color=royalblue&right_color=hotpink&left_text=Total%20Visitors)](https://github.com/yaswanth-81)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                     RANDOM DEV QUOTE SECTION                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 💬 Random Developer Quote
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                         SUPPORT SECTION                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
@@ -416,3 +365,4 @@ If you find my work useful or interesting, consider giving my repositories a ⭐
 [![Open Source](https://img.shields.io/badge/Open%20Source-💚-green?style=flat-square)](https://github.com/yaswanth-81)
 
 </div>
+
