@@ -24,8 +24,6 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
 I’m a final-year B.Tech student and builder who enjoys turning ideas into practical software products. My work sits at the intersection of full-stack development, real-world problem solving, and modern web experiences.
 
 | Area | Details |
@@ -208,12 +206,11 @@ Here are some of the most meaningful projects from my GitHub profile, presented 
 
 <div align="left">
 
-### 🧠 Data Analysis Intern — APSSDC (May 2025 – July 2025)
+### 🛠️ Project Intern — Aeronautical Development Establishment (ADE), DRDO
+May 2026 – July 2026 (Ongoing) · Bengaluru
 
-- Analyzed smartphone battery performance data to uncover real-world usage patterns.
-- Performed data cleaning, exploratory data analysis, and visualization.
-- Derived insights that supported data-driven design and consumer-oriented conclusions.
-- Strengthened my understanding of Python, pandas, and analytical problem solving.
+- Assisted in monitoring, validation, and issue detection within code execution workflows to ensure reliability and smooth functioning of operational processes.
+- Developed automation scripts and utilities using Python to streamline repetitive tasks and improve efficiency in technical workflows.
 
 </div>
 
@@ -365,4 +362,3 @@ If you find my work useful or interesting, consider giving my repositories a ⭐
 [![Open Source](https://img.shields.io/badge/Open%20Source-💚-green?style=flat-square)](https://github.com/yaswanth-81)
 
 </div>
-
