@@ -4,7 +4,7 @@
 
   <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=YASWANTH&fontSize=58&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Builder%20%7C%20Developer%20%7C%20Learner&descAlignY=60&descSize=13" width="88%" alt="Yaswanth banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Yaswanth&fontSize=58&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Builder%20%7C%20Developer%20%7C%20Learner&descAlignY=60&descSize=13" width="88%" alt="Yaswanth banner"/>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=680&lines=Hi+there!+I'm+Yaswanth+👋;Full+Stack+Developer+%7C+MERN+Stack;TypeScript+%7C+React+%7C+Node.js;Problem+Solver+%7C+Open+Source+Contributor;Building+products+that+make+a+difference+🚀)](https://git.io/typing-svg)
 
@@ -162,13 +162,13 @@
 
   | Project | Summary | Stack | Links |
   |---|---|---|---|
-  | **codecrew-connect** | Multi-role campus internship and placement platform with dashboards for students, recruiters, faculty, and admins. | React, TypeScript, Vite, Supabase, PostgreSQL, Tailwind CSS | [Repo](https://github.com/yaswanth-81/codecrew-connect) |
-  | **STUDENTS_CAMPUS_CONNECT** | College-isolated peer-to-peer marketplace for freelance tasks, chat, and payments. | TypeScript, Node.js, Express, MongoDB, JWT | [Repo](https://github.com/yaswanth-81/STUDENTS_CAMPUS_CONNECT) |
-  | **ML-Smart-Pricing-Prediction-** | Hybrid ML project for smart product pricing using LightGBM with text and numeric features. | Python, TensorFlow, scikit-learn, LightGBM | [Repo](https://github.com/yaswanth-81/ML-Smart-Pricing-Prediction-) |
+  | **STUDENTS_CAMPUS_CONNECT** | College-isolated peer-to-peer marketplace for freelance tasks, chat, and payments. | React,TypeScript, Node.js, Express, MongoDB, JWT | [Repo](https://github.com/yaswanth-81/STUDENTS_CAMPUS_CONNECT) |
+  | **Intern-connect** | Multi-role campus internship and placement platform with dashboards for students, recruiters, faculty, and admins. | React, TypeScript, Vite, Supabase, PostgreSQL, Tailwind CSS | [Repo](https://github.com/yaswanth-81/codecrew-connect) |
   | **Library-Seat-Management-System-** | PHP-based library seat reservation and management system. | PHP, HTML, CSS | [Repo](https://github.com/yaswanth-81/Library-Seat-Management-System-) |
   | **encoding-decoding-management-system** | Academic utility project focused on encoding and decoding operations. | PHP, HTML, CSS | [Repo](https://github.com/yaswanth-81/encoding-decoding-management-system) |
   | **academic-authenticator** | Authentication-focused project designed for academic and institutional workflows. | PHP, HTML, CSS | [Repo](https://github.com/yaswanth-81/academic-authenticator) |
   | **AI-POWERED-SHOPKEEPER-VENDOR-MANAGEMENT-SYSTEM** | Vendor and shopkeeper management system with AI-oriented workflows. | PHP, HTML, CSS | [Repo](https://github.com/yaswanth-81/AI-POWERED-SHOPKEEPER-VENDOR-MANAGEMENT-SYSTEM) |
+  | **ML-Smart-Pricing-Prediction-** | Hybrid ML project for smart product pricing using LightGBM with text and numeric features. | Python, TensorFlow, scikit-learn, LightGBM | [Repo](https://github.com/yaswanth-81/ML-Smart-Pricing-Prediction-) |
 
   ### 📚 All Public Projects
 
