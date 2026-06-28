@@ -4,15 +4,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yaswanth&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Yaswanth&fontSize=64&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Builder%20%7C%20Developer%20%7C%20Learner&descAlignY=60&descSize=14" width="90%" alt="Yaswanth banner"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Hi+there!+I'm+Yaswanth+👋;Full+Stack+Developer+%7C+MERN+Stack;TypeScript+%7C+React+%7C+Node.js;Problem+Solver+%7C+Open+Source+Contributor;Building+products+that+make+a+difference+🚀)](https://git.io/typing-svg)
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=yaswanth-81&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/yaswanth-81)
+[![Open to Collaboration](https://img.shields.io/badge/Open%20to-Collaboration-4B8BBE?style=for-the-badge)](https://github.com/yaswanth-81)
 [![GitHub followers](https://img.shields.io/github/followers/yaswanth-81?label=Followers&style=for-the-badge&color=blue&logo=github)](https://github.com/yaswanth-81?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/yaswanth-81?label=Stars&style=for-the-badge&color=yellow&logo=github)](https://github.com/yaswanth-81)
+[![GitHub repos](https://img.shields.io/badge/Repositories-22-blue?style=for-the-badge&logo=github)](https://github.com/yaswanth-81?tab=repositories)
 
 </div>
 
@@ -46,18 +46,14 @@ I’m a final-year B.Tech student and builder who enjoys turning ideas into prac
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                       CURRENT FOCUS SECTION                                -->
+<!--                         PORTFOLIO SECTION                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 🎯 Current Focus
+## 🌐 Portfolio
 
-| | |
-|---|---|
-| 🔭 **Currently Working On** | Full-stack campus platforms (INTERNCONNECT, StudentsConnect) |
-| 🌱 **Currently Learning** | System Design, Docker, CI/CD, Advanced TypeScript patterns |
-| 👯 **Looking to Collaborate** | Open-source full-stack projects, student-centric products |
-| 🤔 **Ask Me About** | React, TypeScript, Node.js, Express, Supabase, MongoDB, ML pipelines |
-| 💬 **Fun Fact** | I built a peer-to-peer campus freelance marketplace from scratch — backend, frontend, and real-time chat! |
+Visit my portfolio to explore my work, projects, and contact details in one place.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-yaswanth--portfolio-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yaswanth-81.github.io/yaswanth-portfolio/)
 
 ---
 
@@ -169,8 +165,8 @@ Here are some of the most meaningful projects from my GitHub profile, presented 
 
 | Project | Summary | Stack | Links |
 |---|---|---|---|
-| **codecrew-connect** | Multi-role campus internship and placement platform with dashboards for students, recruiters, faculty, and admins. | React, TypeScript, Vite, Supabase, PostgreSQL, Tailwind CSS | [Repo](https://github.com/yaswanth-81/codecrew-connect) · ⭐ 1 |
-| **STUDENTS_CAMPUS_CONNECT** | College-isolated peer-to-peer marketplace for freelance tasks, chat, and payments. | TypeScript, Node.js, Express, MongoDB, JWT | [Repo](https://github.com/yaswanth-81/STUDENTS_CAMPUS_CONNECT) · ⭐ 1 · 🍴 2 |
+| **codecrew-connect** | Multi-role campus internship and placement platform with dashboards for students, recruiters, faculty, and admins. | React, TypeScript, Vite, Supabase, PostgreSQL, Tailwind CSS | [Repo](https://github.com/yaswanth-81/codecrew-connect) |
+| **STUDENTS_CAMPUS_CONNECT** | College-isolated peer-to-peer marketplace for freelance tasks, chat, and payments. | TypeScript, Node.js, Express, MongoDB, JWT | [Repo](https://github.com/yaswanth-81/STUDENTS_CAMPUS_CONNECT) |
 | **ML-Smart-Pricing-Prediction-** | Hybrid ML project for smart product pricing using LightGBM with text and numeric features. | Python, TensorFlow, scikit-learn, LightGBM | [Repo](https://github.com/yaswanth-81/ML-Smart-Pricing-Prediction-) |
 | **Library-Seat-Management-System-** | PHP-based library seat reservation and management system. | PHP, HTML, CSS | [Repo](https://github.com/yaswanth-81/Library-Seat-Management-System-) |
 | **encoding-decoding-management-system** | Academic utility project focused on encoding and decoding operations. | PHP, HTML, CSS | [Repo](https://github.com/yaswanth-81/encoding-decoding-management-system) |
@@ -182,7 +178,7 @@ Here are some of the most meaningful projects from my GitHub profile, presented 
 | academic-authenticator | Authentication-focused project for academic use cases. | PHP | [Repo](https://github.com/yaswanth-81/academic-authenticator) |
 | AI-POWERED-SHOPKEEPER-VENDOR-MANAGEMENT-SYSTEM | Vendor and shopkeeper management system with AI-oriented workflows. | PHP | [Repo](https://github.com/yaswanth-81/AI-POWERED-SHOPKEEPER-VENDOR-MANAGEMENT-SYSTEM) |
 | ai_time_line | Timeline-style project built with JavaScript. | JavaScript | [Repo](https://github.com/yaswanth-81/ai_time_line) |
-| codecrew-connect | Multi-role campus internship and placement platform. | TypeScript | [Repo](https://github.com/yaswanth-81/codecrew-connect) · ⭐ 1 |
+| codecrew-connect | Multi-role campus internship and placement platform. | TypeScript | [Repo](https://github.com/yaswanth-81/codecrew-connect) |
 | COMPARE-L-PDF | PDF comparison utility project. | Python | [Repo](https://github.com/yaswanth-81/COMPARE-L-PDF) |
 | COMPARE-PDF | PDF comparison utility project. | Python | [Repo](https://github.com/yaswanth-81/COMPARE-PDF) |
 | encoding-decoding-management-system | Encoding and decoding utility project. | PHP | [Repo](https://github.com/yaswanth-81/encoding-decoding-management-system) |
@@ -197,7 +193,7 @@ Here are some of the most meaningful projects from my GitHub profile, presented 
 | pdf-comparision-tool | PDF comparison utility tool. | HTML | [Repo](https://github.com/yaswanth-81/pdf-comparision-tool) |
 | PSP | Problem-solving and programming practice repository. | C | [Repo](https://github.com/yaswanth-81/PSP) |
 | saral-labs-round2 | Round 2 submission for a coding challenge. | Jupyter Notebook | [Repo](https://github.com/yaswanth-81/saral-labs-round2) |
-| STUDENTS_CAMPUS_CONNECT | Peer-to-peer skill marketplace for campus collaboration. | TypeScript | [Repo](https://github.com/yaswanth-81/STUDENTS_CAMPUS_CONNECT) · ⭐ 1 · 🍴 2 |
+| STUDENTS_CAMPUS_CONNECT | Peer-to-peer skill marketplace for campus collaboration. | TypeScript | [Repo](https://github.com/yaswanth-81/STUDENTS_CAMPUS_CONNECT) |
 | TASK-DRDO | Project work associated with the DRDO internship. | Python | [Repo](https://github.com/yaswanth-81/TASK-DRDO) |
 | yaswanth-81 | Profile repository for GitHub profile content. | HTML | [Repo](https://github.com/yaswanth-81/yaswanth-81) |
 | yaswanth-portfolio | Personal portfolio website. | HTML | [Repo](https://github.com/yaswanth-81/yaswanth-portfolio) |
@@ -231,29 +227,6 @@ Here are some of the most meaningful projects from my GitHub profile, presented 
 </td>
 </tr>
 </table>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                       TECHNICAL SKILLS TABLE                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 📊 Technical Skills
-
-| Category | Technologies |
-|---|---|
-| **Languages** | TypeScript, JavaScript (ES2022+), Python, C++, PHP, HTML5, CSS3, SQL |
-| **Frontend Frameworks** | React 18, Vite, Tailwind CSS, shadcn/ui, Radix UI, Framer Motion |
-| **State Management** | TanStack Query (React Query), React Context API |
-| **Forms & Validation** | React Hook Form, Zod |
-| **Backend** | Node.js, Express.js, Supabase Edge Functions (Deno) |
-| **Databases** | PostgreSQL (Supabase), MongoDB Atlas, Mongoose ODM |
-| **Auth & Security** | Supabase Auth, JWT, bcrypt, Row-Level Security (RLS) |
-| **ML & Data Science** | TensorFlow, EfficientNetB0, LightGBM, TF-IDF, scikit-learn, Pandas, NumPy |
-| **Real-time** | Supabase Realtime, WebSockets |
-| **DevOps & Tools** | Git, GitHub, npm, Bun, ESLint, Postman, Vercel, Netlify |
-| **Package Management** | npm, Bun |
-| **Operating Systems** | Linux, macOS, Windows |
 
 ---
 
@@ -374,7 +347,7 @@ Here are some of the most meaningful projects from my GitHub profile, presented 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yaswanth-81)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yaswanth-81)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yaswanth-81.github.io/yaswanth-portfolio/)
 [![Twitter/X](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yaswanth_81)
 
 > 📝 *Replace each `#` or placeholder URL with your real links (LinkedIn URL, email, portfolio, Twitter/X handle).*
