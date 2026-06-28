@@ -4,7 +4,7 @@
 
   <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Yaswanth&fontSize=58&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Builder%20%7C%20Developer%20%7C%20Learner&descAlignY=60&descSize=13" width="88%" alt="Yaswanth banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=YASWANTH N&fontSize=58&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Builder%20%7C%20Developer%20%7C%20Learner&descAlignY=60&descSize=13" width="88%" alt="Yaswanth banner"/>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=680&lines=Hi+there!+I'm+Yaswanth+👋;Full+Stack+Developer+%7C+MERN+Stack;TypeScript+%7C+React+%7C+Node.js;Problem+Solver+%7C+Open+Source+Contributor;Building+products+that+make+a+difference+🚀)](https://git.io/typing-svg)
 
@@ -224,39 +224,6 @@
 
   ---
 
-  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-  <!--                       GITHUB ANALYTICS SECTION                             -->
-  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-  ## 📈 GitHub Analytics
-
-  <div align="center">
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yaswanth-81&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Yaswanth's GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanth-81&theme=tokyonight&hide_border=true" alt="Yaswanth's GitHub Streak" />
-
-  <br/>
-
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yaswanth-81&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-
-  <br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=yaswanth-81&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-
-  </div>
-
-  <!-- Snake Contribution Animation -->
-  <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yaswanth-81/yaswanth-81/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yaswanth-81/yaswanth-81/output/github-contribution-grid-snake.svg" />
-      <img alt="Contribution Snake" src="https://raw.githubusercontent.com/yaswanth-81/yaswanth-81/output/github-contribution-grid-snake.svg" />
-    </picture>
-  </div>
-
-  > 💡 **To enable the snake animation:** Add a GitHub Actions workflow in your profile repo (`.github/workflows/snake.yml`) using `Platane/snk` action.
-
-  ---
 
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
   <!--                       CODING PROFILES SECTION                              -->
